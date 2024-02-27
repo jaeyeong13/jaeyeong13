@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaeyeong Won!</h1>
-<h3 align="center">A future full-stack developer of South Korea, Currently in EWHA Womans University</h3>
+<h3 align="center">An active developer, Currently in EWHA Womans University</h3>
 
 - 🔭 I’m currently working on **Fever-Partners**
 
