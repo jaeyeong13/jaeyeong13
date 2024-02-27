@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jaeyeong-won-9b54712b5/](https://www.linkedin.com/in/jaeyeong-won-9b54712b5/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://github.com/jaeyeong13</h3>
 <p align="left">
 </p>
 
