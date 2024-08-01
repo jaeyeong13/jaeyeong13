@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaeyeong Won!</h1>
 <h3 align="center">An active developer, Currently in EWHA Womans University</h3>
 
-- 🔭 I’m currently working on my Graduation Project
+- 🔭 I’m currently working on **GoldenGlobe**, my Graduation Project
 
 - 🌱 I’m currently learning **Spring, Django, and React**
 
