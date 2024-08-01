@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GoldenGlobe**, my Graduation Project
 
-- 🌱 I’m currently learning **Spring, Django, and React**
+- 🌱 I’m currently learning **SpringBoot and React**
 
 - 👨‍💻 All of my projects are available at [https://jaeyeong13.github.io/my-portfolio-website/](https://jaeyeong13.github.io/my-portfolio-website/)
 
