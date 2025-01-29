@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GDG Solution Challenge 2025**, under the theme of a family-centered SNS use management service for children.
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot** and **Computer Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://jaeyeong13.github.io/my-portfolio-website/](https://jaeyeong13.github.io/my-portfolio-website/)
 
